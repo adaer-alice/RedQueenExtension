@@ -1,0 +1,24 @@
+{
+	"name": "RedQueenExtension",
+	"speakableName": "RedQueenExtension AddOn",
+	"version": "0.0.1",
+	"icon": "fab fa-battle-net",
+	"category": "information",
+	"author": "adaer-alice",
+	"maintainers": [],
+	"desc": "Redqueenextension for more personality intents",
+	"aliceMinVersion": "1.0.0-b5",
+	"pipRequirements": [
+		""
+	],
+	"systemRequirements": [
+		""
+	],
+	"conditions": {
+		"lang": [
+			"en"
+		],
+		"online": true,
+		"asrArbitraryCapture": true
+	}
+}
